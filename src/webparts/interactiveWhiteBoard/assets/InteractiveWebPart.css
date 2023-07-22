@@ -1,0 +1,135 @@
+
+    .welcome{
+      height: 500px;
+      width:600px;
+      padding-left: 10%;
+    }
+   
+    .show{
+      height: 500px;
+      width:100px;
+      padding-left: 10%;
+    
+    }
+    .welcome_abee45cd .ms-Grid-row .ImageCls{
+        width: 100px;
+        text-align: center;
+        margin-left: 250px;
+    }
+    
+    
+.welcome_31f3c3cf .ms-Grid{
+  display: flex;
+}
+
+    .FieldLable {
+      display: flex;
+      padding: 5px;
+      white-space: pre-wrap; 
+        min-width: 100px;
+      
+    }
+   
+    .divStyle{
+    
+    background-color:  #650591;  
+    padding:  20px ;
+    margin:  20px ;
+    }
+    
+    
+    .dropbtn {
+      
+      display: flex;
+      background-color: #f9f9f9;
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border:black;
+      cursor: pointer;
+      cursor: pointer;
+      padding: 20px 10px;
+      border-radius:25px
+    }
+    
+    .dropdown {
+      position: relative;
+      display: block;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font:bold;
+    
+    }
+    
+    .dropdowncontent {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      
+    }
+    
+    .welcome .button{
+      display:flex;
+    
+    }
+    
+    .button{
+      display:flex;
+    }
+    
+
+    
+    .dropdowncontent a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+    
+    .dropdowncontent a:hover {background-color: #f1f1f1}
+    
+    .dropdown:hover .dropdowncontent {
+      display: block;
+    }
+    
+    .dropdown:hover .dropbtn {
+      background-color: #e60c55;
+    }
+    
+    /* .grid_item
+    {border:2px solid black;} */
+    
+    .ImageCls{
+      height: 100px;
+      width: 100px;
+      margin-left: 250px;
+    }
+    
+    .Header{
+      height: 70px;
+      width: 100em;
+      /* border: 3px solid black */
+      
+      ;
+    }
+
+    .welcome_abee45cd .ms-Grid-row .ms-Grid-row1 .ms-Grid-row2 .ms-Grid-row3{
+        font-size: 20px;
+        margin-right:45px;
+        margin-left: 5px;
+    }
+ 
+  .welcome.button .ms-Button .ms-Button{
+      border-radius: 50px;
+    }
+
+    .welcome{
+      height: 180px;
+    }
+
+  .Canvas grid Canvas--withLayout .welcome{
+    height: 180px;
+  }

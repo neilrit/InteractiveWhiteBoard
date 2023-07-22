@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "interactive-white-board",
+    "libraryId": "9851cb15-0d5e-48cf-b412-71f3aabebe18",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "interactive-white-board",
+    "solutionShortDescription": "interactive-white-board description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

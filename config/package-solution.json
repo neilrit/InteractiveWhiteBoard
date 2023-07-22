@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "interactive-white-board-client-side-solution",
+    "id": "9851cb15-0d5e-48cf-b412-71f3aabebe18",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "interactive-white-board description"
+      },
+      "longDescription": {
+        "default": "interactive-white-board description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "interactive-white-board Feature",
+        "description": "The feature that activates elements of the interactive-white-board solution.",
+        "id": "0c77b129-ca16-4510-8466-fd56f4392ecb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/interactive-white-board.sppkg"
+  }
+}
